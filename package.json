@@ -1,0 +1,10 @@
+{
+  "name": "password-strength-checker-s",
+  "version": "1.0.0",
+  "description": "Simple password strength checker",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["password", "security", "checker"],
+  "author": "Your Name",
+  "license": "MIT"
+}
