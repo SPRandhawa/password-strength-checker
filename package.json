@@ -1,10 +1,32 @@
 {
-  "name": "password-strength-checker-s",
+  "name": "password-strength-checker",
   "version": "1.0.0",
-  "description": "Simple password strength checker",
+  "description": "A JavaScript-based password strength checker for basic cybersecurity validation",
   "main": "index.js",
   "type": "module",
-  "keywords": ["password", "security", "checker"],
-  "author": "Your Name",
-  "license": "MIT"
+  "keywords": [
+    "password",
+    "security",
+    "checker",
+    "strength",
+    "validation",
+    "cybersecurity"
+  ],
+  "author": "SPRandhawa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SPRandhawa/password-strength-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SPRandhawa/password-strength-checker/issues"
+  },
+  "homepage": "https://github.com/SPRandhawa/password-strength-checker#readme",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node index.js"
+  }
 }
